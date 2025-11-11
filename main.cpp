@@ -1,9 +1,9 @@
 /*Lab 1A*/
-/*Write the program description*/
-/*Name: Write your full-name here*/
-/*USM Email: abc123@student.usm.my*/
-/*GitHub Username: abc123*/
-/*Matric No.: 987654*/
+/*lab 1A*/
+/*Name: Li Junyi*/
+/*USM Email: lijunyi@student.usm.my*/
+/*GitHub Username: lijunyi-usm*/
+/*Matric No.: 24300324*/
 
 #if __linux__                                           //DO NOT EDIT OR REMOVE
     #define CATCH_CONFIG_RUNNER                         //DO NOT EDIT OR REMOVE
